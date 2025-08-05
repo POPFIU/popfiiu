@@ -5,12 +5,12 @@ programa
 	funcao inicio()
 	{
 		escreva("Primeiro programa no Github\n")
-		escreva("Digite o primeiro numero: ")
+		escrava("Digite o primeiro numero: ")
 		leia(n1)
 		escrava("Digite o segundo numero: ")
 		leia(n2)
 
-		n1 + n2 = r
+		r = n1 + n2 
 
 		escreva("A soma desses numeros e igual a:", r)
 	}
