@@ -1,9 +1,18 @@
 programa
 {
+	inteiro n1, n2, r
 	
 	funcao inicio()
 	{
-		escreva("Olá Mundo ")
+		escreva("Primeiro programa no Github\n")
+		escreva("Digite o primeiro numero: ")
+		leia(n1)
+		escrava("Digite o segundo numero: ")
+		leia(n2)
+
+		n1 + n2 = r
+
+		escreva("A soma desses numeros e igual a:", r)
 	}
 }
 /* $$$ Portugol Studio $$$ 
